@@ -1,0 +1,51 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+		google()
+		mavenCentral()
+	}
+}
+dependencyResolutionManagement {
+	repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+	repositories {
+		google()
+		mavenCentral()
+	}
+}
+rootProject.name = "Android Modules"
+include ':app'
+include ':android-module-animation'
+include ':android-module-appcompat'
+include ':android-module-boommenu'
+include ':android-module-bottomsheet'
+include ':android-module-compactview'
+include ':android-module-compassview'
+include ':android-module-constraintlayout'
+include ':android-module-core'
+include ':android-module-database'
+include ':android-module-floatingbar'
+include ':android-module-gesturedetector'
+include ':android-module-googleauth'
+include ':android-module-googlebilling'
+include ':android-module-googlelocation'
+include ':android-module-googlemap'
+include ':android-module-http'
+include ':android-module-imgproc'
+include ':android-module-json'
+include ':android-module-mvc'
+include ':android-module-network'
+include ':android-module-navigation'
+include ':android-module-preferenceview'
+include ':android-module-location'
+include ':android-module-livedata'
+include ':android-module-recyclerview'
+include ':android-module-reflection'
+include ':android-module-graphics'
+include ':android-module-security'
+include ':android-module-storage'
+include ':android-module-showcaseview'
+include ':android-module-stream'
+include ':android-module-sensor'
+include ':android-module-tooltip'
+include ':android-module-topic'
+include ':android-module-view'

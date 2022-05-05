@@ -1,0 +1,105 @@
+[submodule "android-module-animation"]
+	path = android-module-animation
+	url = https://github.com/darkcompet/android-module-animation.git
+[submodule "android-module-appcompat"]
+	path = android-module-appcompat
+	url = https://github.com/darkcompet/android-module-appcompat.git
+[submodule "android-module-boommenu"]
+	path = android-module-boommenu
+	url = https://github.com/darkcompet/android-module-boommenu.git
+[submodule "android-module-bottomsheet"]
+	path = android-module-bottomsheet
+	url = https://github.com/darkcompet/android-module-bottomsheet.git
+[submodule "android-module-compactview"]
+	path = android-module-compactview
+	url = https://github.com/darkcompet/android-module-compactview.git
+[submodule "android-module-compassview"]
+	path = android-module-compassview
+	url = https://github.com/darkcompet/android-module-compassview.git
+[submodule "android-module-constraintlayout"]
+	path = android-module-constraintlayout
+	url = https://github.com/darkcompet/android-module-constraintlayout.git
+[submodule "android-module-core"]
+	path = android-module-core
+	url = https://github.com/darkcompet/android-module-core.git
+[submodule "android-module-database"]
+	path = android-module-database
+	url = https://github.com/darkcompet/android-module-database.git
+[submodule "android-module-floatingbar"]
+	path = android-module-floatingbar
+	url = https://github.com/darkcompet/android-module-floatingbar.git
+[submodule "android-module-gesturedetector"]
+	path = android-module-gesturedetector
+	url = https://github.com/darkcompet/android-module-gesturedetector.git
+[submodule "android-module-googleauth"]
+	path = android-module-googleauth
+	url = https://github.com/darkcompet/android-module-googleauth.git
+[submodule "android-module-googlebilling"]
+	path = android-module-googlebilling
+	url = https://github.com/darkcompet/android-module-googlebilling.git
+[submodule "android-module-googlelocation"]
+	path = android-module-googlelocation
+	url = https://github.com/darkcompet/android-module-googlelocation.git
+[submodule "android-module-googlemap"]
+	path = android-module-googlemap
+	url = https://github.com/darkcompet/android-module-googlemap.git
+[submodule "android-module-http"]
+	path = android-module-http
+	url = https://github.com/darkcompet/android-module-http.git
+[submodule "android-module-imgproc"]
+	path = android-module-imgproc
+	url = https://github.com/darkcompet/android-module-imgproc.git
+[submodule "android-module-json"]
+	path = android-module-json
+	url = https://github.com/darkcompet/android-module-json.git
+[submodule "android-module-mvc"]
+	path = android-module-mvc
+	url = https://github.com/darkcompet/android-module-mvc.git
+[submodule "android-module-network"]
+	path = android-module-network
+	url = https://github.com/darkcompet/android-module-network.git
+[submodule "android-module-navigation"]
+	path = android-module-navigation
+	url = https://github.com/darkcompet/android-module-navigation.git
+[submodule "android-module-preferenceview"]
+	path = android-module-preferenceview
+	url = https://github.com/darkcompet/android-module-preferenceview.git
+[submodule "android-module-location"]
+	path = android-module-location
+	url = https://github.com/darkcompet/android-module-location.git
+[submodule "android-module-livedata"]
+	path = android-module-livedata
+	url = https://github.com/darkcompet/android-module-livedata.git
+[submodule "android-module-recyclerview"]
+	path = android-module-recyclerview
+	url = https://github.com/darkcompet/android-module-recyclerview.git
+[submodule "android-module-reflection"]
+	path = android-module-reflection
+	url = https://github.com/darkcompet/android-module-reflection.git
+[submodule "android-module-graphics"]
+	path = android-module-graphics
+	url = https://github.com/darkcompet/android-module-graphics.git
+[submodule "android-module-security"]
+	path = android-module-security
+	url = https://github.com/darkcompet/android-module-security.git
+[submodule "android-module-storage"]
+	path = android-module-storage
+	url = https://github.com/darkcompet/android-module-storage.git
+[submodule "android-module-showcaseview"]
+	path = android-module-showcaseview
+	url = https://github.com/darkcompet/android-module-showcaseview.git
+[submodule "android-module-stream"]
+	path = android-module-stream
+	url = https://github.com/darkcompet/android-module-stream.git
+[submodule "android-module-sensor"]
+	path = android-module-sensor
+	url = https://github.com/darkcompet/android-module-sensor.git
+[submodule "android-module-tooltip"]
+	path = android-module-tooltip
+	url = https://github.com/darkcompet/android-module-tooltip.git
+[submodule "android-module-topic"]
+	path = android-module-topic
+	url = https://github.com/darkcompet/android-module-topic.git
+[submodule "android-module-view"]
+	path = android-module-view
+	url = https://github.com/darkcompet/android-module-view.git
