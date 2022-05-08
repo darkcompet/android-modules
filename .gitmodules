@@ -103,3 +103,6 @@
 [submodule "android-module-view"]
 	path = android-module-view
 	url = https://github.com/darkcompet/android-module-view.git
+[submodule "android-module-preference"]
+	path = android-module-preference
+	url = https://github.com/darkcompet/android-module-preference.git

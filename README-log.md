@@ -143,3 +143,24 @@
 	implementation project(path: ':android-module-topic')
 	implementation project(path: ':android-module-view')
 	```
+
+- For later created modules, we add with following steps:
+
+	```bash
+	# Rename .git
+	mv .git .git-tmp
+
+	# Init/Push git for the new submodule
+	# Note: vscode is quick to go.
+	cd android-module-mynewmodule
+	git init
+	git commit -m "Initial commit"
+	git push
+	cd ..
+
+	# Delete that submodule at local
+	rm -rf android-module-mynewmodule
+
+	# Add that submodule to git
+	git submodule add https://github.com/darkcompet/android-module-mynewmodule.git
+	```

@@ -64,6 +64,7 @@ dependencies {
 	implementation project(path: ':android-module-mvc')
 	implementation project(path: ':android-module-network')
 	implementation project(path: ':android-module-navigation')
+	implementation project(path: ':android-module-preference')
 	implementation project(path: ':android-module-preferenceview')
 	implementation project(path: ':android-module-location')
 	implementation project(path: ':android-module-livedata')
