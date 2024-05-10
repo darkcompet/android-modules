@@ -5,4 +5,4 @@ git pull
 git submodule init
 git submodule update --remote --merge
 # git pull --recurse-submodules
-git submodule foreach git checkout main
+# git submodule foreach git checkout main
